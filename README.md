@@ -1,6 +1,8 @@
 # Cold Docs
 Cold Selfbot
-![Image](https://cdn.discordapp.com/attachments/860036427156291584/899255205961531412/Cold_Logo.png)
+
+
+ ![Image](https://cdn.discordapp.com/attachments/860036427156291584/899255205961531412/Cold_Logo.png)
 
 ## Commands
 
