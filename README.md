@@ -1,10 +1,10 @@
-# Cold Docs
-Cold Selfbot
+# **Cold Docs**
+**Cold Selfbot**
 
 
  ![Image](https://cdn.discordapp.com/attachments/860036427156291584/899255205961531412/Cold_Logo.png)
 
-## Commands
+## **Commands**
 
 - help
 - tts
@@ -42,11 +42,11 @@ Cold Selfbot
 - whois
 - minesweeper
 - combine
-- 1337_speak
+- 1337speak
 - devowel
 - blank
 - pfpsteal
-- set_pfp
+- setpfp
 - dick
 - hypesquad
 - tokenfuck
@@ -65,7 +65,7 @@ Cold Selfbot
 - delroles
 - massunban
 - dm
-- get_color
+- getcolor
 - tinyurl
 - rainbow
 - 8ball
@@ -73,7 +73,7 @@ Cold Selfbot
 - autobump
 - upper
 - guildicon
-- first_message
+- firstmessage
 - mac
 - abc
 - btc
@@ -100,7 +100,7 @@ Cold Selfbot
 - love
 - proxies
 - uptime
-- group_leaver
+- groupleaver
 - game
 - listening
 - watching
@@ -110,14 +110,14 @@ Cold Selfbot
 - lenny
 - tableflip
 - unflip
-- role_hexcode
-- get_hwid
+- rolehexcode
+- gethwid
 - empty
 - everyone
 - logout
-- steal_all_pfp
+- stealallpfp
 - btcstream
 - cls
-- gmail_bomb
+- gmailbomb
 
 
